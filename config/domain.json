@@ -1,0 +1,6 @@
+{
+  "service_id": "water-quota",
+  "title": "智慧水网配额分配接口",
+  "health_path": "/health",
+  "port": 8080
+}
