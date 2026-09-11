@@ -1,6 +1,7 @@
 {
   "service_id": "water-quota",
-  "title": "智慧水网配额分配接口",
+  "title": "亚太能源投资风险闸门",
   "health_path": "/health",
-  "port": 8080
+  "port": 8080,
+  "display_name": "亚太能源投资风险闸门"
 }
